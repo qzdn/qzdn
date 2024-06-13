@@ -1,6 +1,5 @@
 <h1 align="center">Hi there!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<p align="center">💫 Currently learning Selenium, Docker, Svelte, TailwindCSS and FastAPI. </p>
 
 <h2 align="center">💻 Tech Stack:</h2>
 <div align="center">
